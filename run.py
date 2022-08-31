@@ -6,15 +6,15 @@ import random
 total_amount_of_guesses = 0
 
 # Game introduction text
-print("Let's play a game... \n")
+print("Would you like to play a game...? \n")
 print("I'm thinking of a number between 1 and 50. \n")
 print("Do you think you could guess it...? \n")
 print("What if I said you only had 6 tries..? \n")
 print("Do you still think you could guess it...? \n")
-print("If so let's get started...")
-
+print("If so let's get started... \n")
 
 # Enter name input
+input("Please enter your name:")
 
 # random number generated
 
